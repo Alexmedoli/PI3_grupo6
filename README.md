@@ -1,6 +1,6 @@
 # **Projeto integrador 3 grupo 7**
 
-## Inicio
+## Início
 
 A página é composta das seguintes telas:
 
