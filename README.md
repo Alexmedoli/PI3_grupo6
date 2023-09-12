@@ -15,14 +15,16 @@ A página é composta das seguintes telas:
 ## Home / Login / Recuperar senha
 
 
-![Section 1](https://github.com/Alexmedoli/PI3_grupo7/assets/129328112/2d980631-3d49-4f6d-9b73-6f0c1433ac06)
+![Section 1](https://github.com/Alexmedoli/PI3_grupo7/assets/129328112/911fd406-5f61-4fa4-911d-726a9b2b2167)
+
 
 
 ## Cadastro de fornecedores / Cadastro de alunos / Cadastro de professores
 
 Página referente ao item de cadastro de fornecedores, responsável por requisitar e encaminhar todas as informações necessárias para que a secretária possa efetuar o cadastro e login do fornecedor.
 
-![Section 2](https://github.com/Alexmedoli/PI3_grupo7/assets/129328112/ae6faa8d-b972-4c38-8b12-aeaad41b3ba8)
+![Section 2](https://github.com/Alexmedoli/PI3_grupo7/assets/129328112/c5e4c9d1-ea99-47a9-a2e9-aad25582cade)
+
 
 
 ## Validação da secretaria
