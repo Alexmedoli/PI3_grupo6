@@ -1,5 +1,9 @@
 # **Projeto integrador 3 grupo 6**
 
+## Diagrama de relações 
+
+![alt_text](IMG-20230918-WA0006.jpg)
+
 ## Início
 
 A página é composta das seguintes telas:
