@@ -15,6 +15,9 @@ A página é composta das seguintes telas:
   * Cadastro de professores
   * Cadastro de alunos
   * Validação da secretaria
+  * Tela com o Usuario cadastrado (aluno)
+
+Ferramenta utilizada: Figma
 
 ## Home / Login / Recuperar senha
 
@@ -36,5 +39,10 @@ Página referente ao item de cadastro de fornecedores, responsável por requisit
 
 <img width="3372" alt="Section 3" src="https://github.com/Alexmedoli/PI3_grupo7/assets/129328112/634e9930-5aa2-46fc-9de3-a95062440fbb">
 
+
+## Tela com o Usuario cadastrado (aluno)
+
+
+![Section 4](https://github.com/Alexmedoli/PI3_grupo6/assets/129328112/03245af2-4dba-4034-80e6-f3259e00f47c)
 
 
